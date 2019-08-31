@@ -1,5 +1,7 @@
 # filter-async-rxjs-pipe
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bjesuiter/filter-async-rxjs-pipe.svg)](https://greenkeeper.io/)
+
 Some pipeable functions for rxjs 6+ which accept predicate lambdas with async return value (Promise or Observable).
 
 ## Usage
